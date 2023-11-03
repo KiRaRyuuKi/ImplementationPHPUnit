@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SimpleTest::testCountWords":7,"PHPUnitTest::testEmptySentence":7,"PHPUnitTest::testMultipleSpaces":7},"times":{"SimpleTest::testCountWords":0.004,"PHPUnitTest::testExample":0.001,"PHPUnitTest::testAnotherExample":0.001,"PHPUnitTest::testSingleWord":0.063,"PHPUnitTest::testEmptySentence":0.023,"PHPUnitTest::testMultipleSpaces":0.001}}
